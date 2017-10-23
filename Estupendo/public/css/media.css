@@ -1,0 +1,306 @@
+@media only screen and (min-width:1920px){
+.container {width: 1530px; border:0px red solid}
+.banner-sec ul li h2{font-size:60px;line-height:80px; letter-spacing:2px}
+.bannerForm p.lgTxt{ font-size:35px; letter-spacing:1px}
+.banner-sec .banner-caption{ left:10%; top:35%;}
+.bannerForm{ right:9.9%;width:27.2%;padding:9.1% 32px}
+.bannerForm .dateRow{ padding:44px 0}
+.bannerForm .dateRow p{ margin-bottom:0;}
+.checkBtn{ padding:25px 20px; width:83%}
+.bannerImg{ min-height:766px;}
+.bannerForm .dateRow input.form-control{ font-size:60px;}
+.bannerForm .dateRow .rowleft, .bannerForm .dateRow .rowright{ margin-bottom:92px;}
+.banner-sec ul li .readmoreBtn{ margin-top:40px; padding:15px 54px 15px 28px; margin-left:3px}
+.bx-wrapper .bx-pager{ bottom:21%; left:10.1%}
+.aboutSection{ padding:137px 0 150px 0;}
+.aboutLeft h1{ margin-top:46px; letter-spacing:2px; margin-bottom:21px}
+.aboutLeft p.itxt{ margin-bottom:17px}
+.aboutLeft .readmoreBtn.bt_cm span{ height:82px; width:82px;}
+.welcontainer .welcomeLeft{ padding-right:7%; width:43.5%}
+.welcontainer .welcomeRight{ padding-right:0; padding-left:7%}
+.welcomeSection{ padding:135px 0;}
+#prevSlider{ left:2%}
+#nextSlider{ right:2%}
+/*Villas Page*/
+.dateForm .rowdate input{ font-size:60px;padding-left:134px;}
+.dateForm .rowdate{ margin-right:37px; width:351px;}
+.dateForm{ width:61%}
+.villaGallerySection .galleryContainer{ width:83%}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardLeft{ width:74%}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{ width:26%; padding-left:35px;}
+
+/*Villa Details Page*/
+.villaDetailContainer .aboutRight .enquireBlock{ padding:35px;}
+.villa-slider .bannerImg{ min-height:724px;}
+.villaBanner .bx-controls-direction{left:17%;top:94%}
+.villaDetailContainer{ margin:0 8.5%}
+.villaDetailSection{ padding:52px 0 160px 0}
+.villaDetailContainer .aboutLeft{width:60%; padding-right:64px}
+.villaDetailContainer .aboutRight{ margin-top:-13.5%;width:40%}
+.villaDetailContainer .aboutRight .enquireBlock h3{ margin-bottom:48px;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow{ margin:0 0 54px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(1) {padding-right: 26px;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(2) {padding-left: 26px;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow:nth-child(3){ margin-top:24px; margin-bottom:42px;}
+.villaDetailContainer .aboutLeft .featuresList{ width:86%; margin:0}
+.villaDetailContainer .aboutLeft .featuresList li{ padding-right:29px}
+
+}
+@media only screen and (min-width:1440px){
+.container {width: 1530px; border:0px blue solid}	
+}	
+@media only screen and (min-width:1024px) and (max-width:1365px){
+.container {border:0px pink solid;padding:0 10px}
+.bannerForm{ width:44%; right:3.5%; padding:80px 10px}
+.banner-sec ul li h2{ font-size:38px;}
+.banner-sec .banner-caption{ left:3%}
+.bx-wrapper .bx-pager{ left:3%; bottom:22%}
+.aboutLeft{ padding-right:25px}
+#carouselSlider a{ margin:0 5px;}
+#prevSlider{ left:1%}
+#nextSlider{ right:1%}
+.nav_overlay ul li a{ font-size:50px;}
+
+/*Villas Page*/
+.dateForm{ width:84%}
+.dateForm .rowdate{ width:300px; margin-right:16px}
+/*Villa Details Page*/
+.villaDetailContainer{ margin:0;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(1){padding:0;width:100%;margin-right:0; margin-bottom:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(2){padding:0;width:100%;margin-left:0;margin-bottom:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow{ margin-bottom:0px}
+.villaBanner .bx-controls-direction{ left:3%}
+}
+@media only screen and (min-width:768px) and (max-width:1023px){
+.container {border:0px pink solid;padding:0 10px}
+.bannerForm{ width:44%; right:2.6%; padding:42px 10px}
+.bannerForm .dateRow input.form-control{ font-size:36px}
+.banner-sec ul li h2{ font-size:28px;}
+.banner-sec .banner-caption{ left:3%}
+.aboutLeft{ padding-right:25px}
+#carouselSlider a{ margin:0;}
+
+/*Villas Page*/
+.dateForm{ width:77%}
+.villaGallerySection{ padding:50px 0;}
+.dateForm .rowdate{ width:48% !important; margin-right:20px !important;}
+.dateForm .rowdate:nth-child(2){margin-right:0px !important;}
+.dateForm .rowdate:last-child{ width:100% !important}
+.dateForm .rowdate:last-child .checkBtn{ float:none; width:50%}
+.dateForm .rowdate, .dateForm .rowdate:last-child{ width:100%; margin-right:0; margin-bottom:20px}
+.dateForm, .villaGallerySection .galleryContainer{ display:table;}
+.villaGallerySection .galleryContainer{ width:85%}
+.dateForm .rowdate input{ font-size:42px;}
+.villaGallerySection .galleryContainer .villaThumb .card-body{ display:block; width:100%; float:left; margin-bottom:30px}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardLeft, .villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{ width:100%; float:left}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{border-left:none; border-top:1px #d0d0d0 solid; margin-top:10px; padding-top:10px; padding-left:0;}
+.dateForm .rowdate:last-child{ margin-bottom:0;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul li{ margin-bottom:15px;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul{ padding-top:10px}
+.villaGallerySection .galleryContainer .villaThumb{ float:left; width:100%;}
+/*Villa Details Page*/
+.villaDetailContainer{ margin:0;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(1){padding:0;width:100%;margin-right:0; margin-bottom:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(2){padding:0;width:100%;margin-left:0;margin-bottom:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow{ margin-bottom:0px}
+.villaBanner .bx-controls-direction{ left:3%}
+.villaDetailContainer .aboutRight{ width:38%}
+.villaDetailContainer .aboutLeft{ width:62%}
+}
+@media only screen and (min-width:668px) and (max-width:767px){
+.container {border:0px red solid;padding:0 20px}
+.nav_overlay ul li a{ font-size:30px; line-height:44px;}
+.banner-sec ul li h2{ font-size:22px;}
+.banner-sec .banner-caption{ display:none}
+.bannerForm{ width:56%; right:2%; padding:42px 10px}
+.aboutLeft, .aboutRight{ width:100%; padding:0;}
+.welcontainer{ display:block}
+.welcontainer .welcomeLeft, .welcontainer .welcomeRight{ border:none; float:left;width:100%; padding:0;}
+.aboutSection, .welcomeSection{ padding:50px 0;}
+.aboutLeft .readmoreBtn.bt_cm span{ height:50px; margin-top:-14px}
+.aboutLeft .readmoreBtn{ margin-top:38px;}
+.aboutLeft{ margin-bottom:30px;}
+#carouselSlider a{ margin:0;}
+.welcomeList{ margin-left:0;}
+.welcontainer .welcomeLeft{ margin-bottom:20px;}
+.welcontainer .welcomeLeft h2{ font-size:30px;}
+.welcomeList li{ font-size:17px;}
+footer .custom-search-input{ width:70%}
+
+/*Villas Page*/
+.dateForm{ width:82%}
+.villaGallerySection{ padding:50px 0;}
+.dateForm .rowdate{ width:48% !important; margin-right:20px !important;}
+.dateForm .rowdate:nth-child(2){margin-right:0px !important;}
+.dateForm .rowdate:last-child{ width:100% !important}
+.dateForm .rowdate:last-child .checkBtn{ float:none; width:50%}
+.dateForm .rowdate, .dateForm .rowdate:last-child{ width:100%; margin-right:0; margin-bottom:20px}
+.dateForm, .villaGallerySection .galleryContainer{ display:table;}
+.villaGallerySection .galleryContainer{ width:92%}
+.dateForm .rowdate input{ font-size:42px;}
+.villaGallerySection .galleryContainer .villaThumb{margin-bottom:40px}
+.villaGallerySection .galleryContainer .villaThumb .card-body{ display:block; width:100%; float:left;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardLeft, .villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{ width:100%; float:left}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{border-left:none; border-top:1px #d0d0d0 solid; margin-top:10px; padding-top:10px; padding-left:0;}
+.dateForm .rowdate:last-child{ margin-bottom:0;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul{ padding-top:10px}
+.villaGallerySection .galleryContainer .villaThumb{ float:left; width:100%;}
+/*Villa Details Page*/
+.villaDetailContainer .aboutLeft, .villaDetailContainer .aboutRight{ width:100%}
+.villaDetailContainer .aboutLeft{ padding:0}
+.villaDetailContainer .aboutRight{ margin:0;}
+.villaDetailContainer{ margin:0}
+.villaDetailContainer .aboutLeft .featuresList li{ padding-right:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(1){padding:0;width:46%;margin-right:3%; margin-bottom:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(2){padding:0;width:46%;margin-left:3%;margin-bottom:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow{ margin:0 0 20px}
+.villaBanner .bx-controls-direction{ left:3%}
+}
+@media only screen and (min-width:569px) and (max-width:667px) {
+.container {border:0px blue solid;padding:0 20px}
+.nav_overlay ul li a{ font-size:30px; line-height:44px;}
+.banner-sec ul li h2{ font-size:22px;}
+.banner-sec .banner-caption{ display:none}
+.bannerForm{ width:65%; right:2%; padding:42px 10px}
+.aboutLeft, .aboutRight{ width:100%; padding:0;}
+.welcontainer{ display:block}
+.welcontainer .welcomeLeft, .welcontainer .welcomeRight{ border:none; float:left;width:100%; padding:0;}
+.aboutSection, .welcomeSection{ padding:50px 0;}
+.aboutLeft .readmoreBtn.bt_cm span{ height:50px; margin-top:-14px}
+.aboutLeft .readmoreBtn{ margin-top:38px;}
+.aboutLeft{ margin-bottom:30px;}
+#carouselSlider a{ margin:0;}
+.welcomeList{ margin-left:0;}
+.welcontainer .welcomeLeft{ margin-bottom:20px;}
+.welcontainer .welcomeLeft h2{ font-size:30px;}
+.welcomeList li{ font-size:17px;}
+footer .custom-search-input{ width:70%}
+.footerLink li{ margin-bottom:10px}
+
+/*Villas Page*/
+.dateForm{ width:90%}
+.villaGallerySection{ padding:50px 0;}
+.dateForm .rowdate{ width:48% !important; margin-right:20px !important;}
+.dateForm .rowdate:nth-child(2){margin-right:0px !important;}
+.dateForm .rowdate:last-child{ width:100% !important}
+.dateForm .rowdate:last-child .checkBtn{ float:none; width:50%}
+.dateForm .rowdate, .dateForm .rowdate:last-child{ width:100%; margin-right:0; margin-bottom:20px}
+.dateForm, .villaGallerySection .galleryContainer{ display:table;}
+.villaGallerySection .galleryContainer{ width:100%}
+.dateForm .rowdate input{ font-size:42px;}
+.villaGallerySection .galleryContainer .villaThumb{ margin-bottom:30px}
+.villaGallerySection .galleryContainer .villaThumb .card-body{ display:block; width:100%; float:left;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardLeft, .villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{ width:100%; float:left}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{border-left:none; border-top:1px #d0d0d0 solid; margin-top:10px; padding-top:10px; padding-left:0;}
+.dateForm .rowdate:last-child{ margin-bottom:0;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul{ padding-top:10px}
+.villaGallerySection .galleryContainer .villaThumb{ float:left; width:100%;}
+/*Villa Details Page*/
+.villaDetailContainer .aboutLeft, .villaDetailContainer .aboutRight{ width:100%}
+.villaDetailContainer .aboutLeft{ padding:0}
+.villaDetailContainer .aboutRight{ margin:0;}
+.villaDetailContainer{ margin:0}
+.villaDetailContainer .aboutLeft .featuresList li{ padding-right:20px}
+.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(1),.villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(2){ padding:0;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow, .villaDetailContainer .aboutRight .enquireBlock .formRow div[class*="col-"]:nth-child(1){ margin:0 0 20px}
+.villaBanner .bx-controls-direction{ left:3%}
+}
+@media only screen and (min-width:480px) and (max-width:568px){
+.container {border:0px black solid;padding:0 20px}
+.nav_overlay ul li a{ font-size:30px; line-height:44px;}
+.banner-sec ul li h2{ font-size:22px;}
+.banner-sec .banner-caption{ display:none}
+.bannerForm{ width:75%; right:2%; padding:42px 10px}
+.aboutLeft, .aboutRight{ width:100%; padding:0;}
+.welcontainer{ display:block}
+.welcontainer .welcomeLeft, .welcontainer .welcomeRight{ border:none; float:left;width:100%; padding:0;}
+.aboutSection, .welcomeSection{ padding:50px 0;}
+.aboutLeft .readmoreBtn.bt_cm span{ height:50px; margin-top:-14px}
+.aboutLeft .readmoreBtn{ margin-top:38px;}
+.aboutLeft{ margin-bottom:30px;}
+#carouselSlider a{ margin:0;}
+.welcomeList{ margin-left:0;}
+.welcontainer .welcomeLeft{ margin-bottom:20px;}
+.welcontainer .welcomeLeft h2{ font-size:30px;}
+.welcomeList li{ font-size:17px;}
+footer .custom-search-input{ width:90%}
+
+/*Villas Page*/
+.villaGallerySection{ padding:50px 0;}
+.dateForm .rowdate, .dateForm .rowdate:last-child{ width:100%; margin-right:0; margin-bottom:20px}
+.dateForm, .villaGallerySection .galleryContainer{ display:table;}
+.villaGallerySection .galleryContainer{ width:100%}
+.dateForm .rowdate input{ font-size:42px;}
+.villaGallerySection .galleryContainer .villaThumb{ margin-bottom:30px}
+.villaGallerySection .galleryContainer .villaThumb .card-body{ display:block; width:100%; float:left;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardLeft, .villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{ width:100%; float:left}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{border-left:none; border-top:1px #d0d0d0 solid; margin-top:10px; padding-top:10px; padding-left:0;}
+.dateForm .rowdate:last-child{ margin-bottom:0;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul{ padding-top:10px}
+.villaGallerySection .galleryContainer .villaThumb{ float:left; width:100%;}
+/*Villa Details Page*/
+.villaDetailContainer .aboutLeft, .villaDetailContainer .aboutRight{ width:100%}
+.villaDetailContainer .aboutLeft{ padding:0}
+.villaDetailContainer .aboutRight{ margin:0;}
+.villaDetailContainer{ margin:0}
+.villaDetailContainer .aboutLeft .featuresList li{ padding-right:20px}
+.formRow div[class*="col-"]:nth-child(1),.formRow div[class*="col-"]:nth-child(2){ padding:0;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow, .formRow div[class*="col-"]:nth-child(1){ margin:0 0 20px}
+.villaBanner .bx-controls-direction{ left:3%}
+}
+@media only screen and (min-width:320px) and (max-width:479px){
+.container {border:0px yellow solid; padding:0 20px}
+.nav_overlay ul li a{ font-size:30px; line-height:47px;}
+.banner-sec .banner-caption{ display:none}
+.bannerForm{ width:90%; right:5%; padding:20px 10px;}
+.bannerForm p.smTxt{ font-size:14px;}
+.bannerForm p.lgTxt{ font-size:26px;}
+.bannerForm .dateRow .rowleft, .bannerForm .dateRow .rowright{ width:100%; margin-bottom:10px; padding:0; border:0;}
+.bannerForm .dateRow{ padding:22px 0;}
+.bannerForm .dateRow .rowright{ margin-bottom:50px;}
+.bx-wrapper .bx-pager {bottom: -23px;left: 0;width: 100%;text-align: center;}
+.bx-wrapper .bx-pager.bx-default-pager a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus, .bx-wrapper .bx-pager.bx-default-pager a:hover{ background-color:#000;}
+.banner-sec .bx-wrapper .bx-pager a{ border-color:#000;}
+.aboutLeft, .aboutRight{ width:100%; padding:0;}
+.welcontainer{ display:block}
+.welcontainer .welcomeLeft, .welcontainer .welcomeRight{ border:none; float:left;width:100%; padding:0;}
+.aboutSection, .welcomeSection{ padding:50px 0;}
+.aboutLeft .readmoreBtn.bt_cm span{ height:50px; margin-top:-14px}
+.aboutLeft .readmoreBtn{ margin-top:38px;}
+.aboutLeft{ margin-bottom:30px;}
+#carouselSlider a{ margin:0;}
+.welcomeList{ margin-left:0;}
+.welcontainer .welcomeLeft{ margin-bottom:20px;}
+.welcontainer .welcomeLeft h2{ font-size:30px;}
+.welcomeList li{ font-size:17px;}
+footer .custom-search-input{ width:90%}
+.footerLink li{ padding:0 3%; margin-bottom:8px}
+
+/*Villas Page*/
+.villaGallerySection{ padding:50px 0;}
+.dateForm .rowdate, .dateForm .rowdate:last-child{ width:100%; margin-right:0; margin-bottom:20px}
+.dateForm, .villaGallerySection .galleryContainer{ width:100%;}
+.dateForm .rowdate input{ font-size:42px;}
+.villaGallerySection .galleryContainer .villaThumb{ margin-bottom:30px;}
+.villaGallerySection .galleryContainer .villaThumb .card-body{ display:block; width:100%; float:left;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardLeft, .villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{ width:100%; float:left}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight{border-left:none; border-top:1px #d0d0d0 solid; margin-top:10px; padding-top:10px; padding-left:0;}
+.dateForm .rowdate:last-child{ margin-bottom:0;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul li{ margin-bottom:15px;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul li:last-child{ margin-bottom:0;}
+.villaGallerySection .galleryContainer .villaThumb .card-body .cardRight ul{ padding-top:10px}
+.villaGallerySection .galleryContainer .villaThumb{ float:left; width:100%;}
+.sociallink li{ padding:0 4px;}
+/*Villa Details Page*/
+.villaDetailContainer .aboutLeft, .villaDetailContainer .aboutRight{ width:100%}
+.villaDetailContainer .aboutLeft{ padding:0}
+.villaDetailContainer .aboutRight{ margin:0;}
+.villaDetailContainer{ margin:0}
+.villaDetailContainer .aboutLeft .featuresList li{ padding-right:20px}
+.formRow div[class*="col-"]:nth-child(1),.formRow div[class*="col-"]:nth-child(2){ padding:0;}
+.villaDetailContainer .aboutRight .enquireBlock .formRow, .formRow div[class*="col-"]:nth-child(1){ margin:0 0 20px}
+.villaBanner .bx-controls-direction{ left:6%}
+}
+@media only screen and (min-width:320px) and (max-width:768px){
+.dateicon{background:url(../images/downArrow.png) no-repeat right}	
+}
